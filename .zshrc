@@ -139,5 +139,9 @@ precmd() { vcs_info }
 # プロンプト表示
 PROMPT='[${vcs_info_msg_0_}]:%~/%f '
 
+alias t="tig"
+alias la="ls -a"
+alias ll="ls -l"
+alias g="git"
 alias st="C:/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"
 export TMUX_TMPDIR=/var/run/tmux

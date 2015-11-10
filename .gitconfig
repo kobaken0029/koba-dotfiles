@@ -3,3 +3,11 @@
 	name = kento_kobayashi
 [core]
 	editor = vim -c \"set fenc=utf-8\"
+[merge]
+        ff = false
+[color]
+        ui = true
+[alias]
+        b = branch
+        c = checkout
+        cb = checkout -b
