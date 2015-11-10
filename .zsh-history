@@ -1,0 +1,681 @@
+: 1446658108:0;ls
+: 1446658109:0;pwd
+: 1446658117:0;ls -a
+: 1446658126:0;touch .zshrc
+: 1446658127:0;ls
+: 1446658128:0;ls -a
+: 1446658133:1;less .zshrc
+: 1446658163:89;vi .zshrc
+: 1446658260:0;source .zshrc
+: 1446658262:0;ls
+: 1446658264:0;pwd
+: 1446658265:0;ls -a
+: 1446658281:0;vi test.txt
+: 1446658291:0;ls -a
+: 1446658293:0;ls
+: 1446658297:0;vim test.txt
+: 1446658313:0;ls
+: 1446658315:0;less test.txt
+: 1446658323:0;rm test.txt
+: 1446658330:0;vim .zshrc
+: 1446658448:0;source .zshrc
+: 1446658456:0;pwd
+: 1446658457:0;ls
+: 1446658469:0;source .zshrc
+: 1446658474:0;ls
+: 1446658476:0;cd /
+: 1446658476:0;ls
+: 1446658482:0;/
+: 1446658484:0;home
+: 1446658485:0;ls
+: 1446658493:0;s1210029
+: 1446658494:0;ls
+: 1446658495:0;pwd
+: 1446658538:0;vim .zshrc
+: 1446658675:0;pwd
+: 1446658677:0;ls
+: 1446658706:0;pwd
+: 1446658709:0;exit
+: 1446658744:0;pwd
+: 1446658761:0;git clone git://github.com/jonas/tig.git
+: 1446658836:0;exit
+: 1446659813:0;pwd
+: 1446659817:0;git 
+: 1446659820:0;git -v
+: 1446659824:0;git --version
+: 1446659826:0;tig
+: 1446659875:0;pwd
+: 1446659876:0;ls
+: 1446659933:0;git clone git@github.com:kobaken0029/dotfiles.git
+: 1446659941:0;ls
+: 1446659946:0;ls -a
+: 1446659952:0;cd .ssh/h
+: 1446659956:0;cd .ssh
+: 1446659956:0;ls
+: 1446660017:0;C:\Users\s1210029\.ssh\id_rsa id_rsa
+: 1446660032:0;cp C:\Users\s1210029\.ssh\id_rsa id_rsa
+: 1446660050:0;cd C
+: 1446660053:0;cd C:
+: 1446660054:0;ls
+: 1446660058:0;cd Users
+: 1446660059:0;ls
+: 1446660061:0;cd s1210029
+: 1446660061:0;ls
+: 1446660063:0;ls -a
+: 1446660067:0;cd .ssh
+: 1446660067:0;ls
+: 1446660089:0;cp id_rsa /home/s1210029/.ssh/id_rsa
+: 1446660101:0;cp id_rsa.pub /home/s1210029/.ssh/id_rsa.pub
+: 1446660102:0;cd
+: 1446660105:0;cd .ssh
+: 1446660106:0;ls
+: 1446660110:0;cd 
+: 1446660110:0;ls
+: 1446660118:0;git clone git@github.com:kobaken0029/dotfiles.git
+: 1446660122:0;ls
+: 1446660128:0;cd .ssh
+: 1446660128:0;ls
+: 1446660132:0;less id_rsa.pub
+: 1446660191:0;cd
+: 1446660192:0;ls
+: 1446660199:0;git clone git@github.com:kobaken0029/dotfiles.git
+: 1446660203:0;ls
+: 1446660219:0;cd .ssh
+: 1446660219:0;ls
+: 1446660223:0;ls -al
+: 1446660290:0;chmod 600 id_rsa
+: 1446660292:0;ls -;
+: 1446660294:0;ls -l
+: 1446660305:0;cd ..
+: 1446660306:0;ls
+: 1446660314:0;git clone git@github.com:kobaken0029/dotfiles.git
+: 1446660321:0;ls
+: 1446660329:0;cd dotfiles
+: 1446660329:0;ls
+: 1446660342:0;ls -a
+: 1446660346:0;git branch
+: 1446660348:0;git status
+: 1446660353:0;git branch
+: 1446660405:0;tig
+: 1446660448:0;itg
+: 1446660450:0;tig
+: 1446660477:0;vi test.txt
+: 1446660487:0;tig
+: 1446660557:0; git config --global user.email "kobaken0029@gmail.com"
+: 1446660570:0; git config --global user.name "
+: 1446660595:0; git config --global user.name "kento_kobayashi"
+: 1446660597:0;tig
+: 1446660794:0;ls
+: 1446660795:0;cd .
+: 1446660796:0;cd ..
+: 1446660797:0;ls
+: 1446660798:0;ls a
+: 1446660800:0;ls -a
+: 1446660807:0;vim .vimrc
+: 1446660857:0;vi test
+: 1446660873:0;exit
+: 1446660880:0;ls
+: 1446660889:0;source .vimrc
+: 1446660891:0;vi test
+: 1446660906:0;cd dotfiles
+: 1446660906:0;ls
+: 1446660912:0;vim test.txt
+: 1446660940:0;tig
+: 1446660971:0;q
+: 1446660972:0;ls
+: 1446660973:0;cd ..
+: 1446660974:0;ls
+: 1446660975:0;ls -a
+: 1446660979:0;vim .gitconfig
+: 1446661042:0;git config --global core.editor 'vim -c "set fenc=utf-8"'
+: 1446661045:0;cd dotfiles
+: 1446661046:0;ls
+: 1446661047:0;tig
+: 1446661053:0;vim test.txt
+: 1446661066:0;tig
+: 1446661273:0;ls
+: 1446661275:0;cd ..
+: 1446661275:0;ls
+: 1446661277:0;ls a
+: 1446661278:0;la
+: 1446661302:0;vim .zshrc
+: 1446661337:0;cd
+: 1446661338:0;cd dotfiles
+: 1446661376:0;exit
+: 1446661381:0;ls
+: 1446661383:0;cd dotfiles
+: 1446661391:0;ls
+: 1446661393:0;cd
+: 1446661397:0;cd C
+: 1446661400:0;cd C:
+: 1446661401:0;cd
+: 1446661403:0;cd dotfiles
+: 1446661407:0;exit
+: 1446666755:0;ssh
+: 1446666765:0;where ssh
+: 1446666776:0;ssh s1210029@sshgate.u-aizu.ac.jp
+: 1446667762:0;pwd
+: 1446667769:0;mkdir ubuntu
+: 1446667771:0;cd ubuntu
+: 1446667869:0;vagrant init
+: 1446668148:0;ls
+: 1446668153:0;vim Vagrantfile
+: 1446668371:0;ls
+: 1446668373:0;cd ..
+: 1446668373:0;ls
+: 1446668374:0;ls -a
+: 1446668416:0;vim .zshrc
+: 1446668640:0;source .zshrc
+: 1446668644:0;exit
+: 1446668669:0;st hoge.txt
+: 1446668679:0;st
+: 1446668768:0;ul -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
+: 1446668815:0;curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
+: 1446668830:0;source .zshrc
+: 1446668889:0;pwd
+: 1446668889:0;ls
+: 1446668894:0;ls -a
+: 1446668937:0;apt-cyg install tmux
+: 1446668955:0;echo 'export TMUX_TMPDIR=/var/run/tmux' >> ~/.zshrc
+: 1446668967:0;\
+
+: 1446668977:0;mkdir /var/run/tmux
+: 1446668984:0;\
+
+: 1446669004:0;source .zshrc
+: 1446669011:0;less .zshrc
+: 1446669077:0;less -N .zshrc
+: 1446669095:0;vim .zshrc -N
+: 1446669112:0;source .zshrc
+: 1446669132:0;ls
+: 1446669134:0;ls -a
+: 1446669151:0;echo "set number" >> .vimrc
+: 1446669158:0;vim .zshrc
+: 1446669209:0;echo 'export TMUX_TMPDIR=/var/run/tmux' >> ~/.zshrc
+: 1446669218:0;mkdir /var/run/tmux
+: 1446669238:0;tmux
+: 1446669243:0;ls
+: 1446669245:0;pwd
+: 1446669257:0;tmux -L default-nest1
+: 1446669270:0;tmux -L default-nest2
+: 1446669279:0;ls -l
+: 1446669281:0;ls
+: 1446669290:0;ls -l /var/run/tmux
+: 1446669307:0;tree -pug /var/run/tmux
+: 1446669312:0;tee -pug /var/run/tmux
+: 1446669325:0;exit
+: 1446669399:0;tmux
+: 1446669612:0;ls
+: 1446669613:0;pwd
+: 1446669616:0;exit
+: 1446669831:0;st
+: 1446669875:0;source .zshrc
+: 1446669877:0;st
+: 1446669904:0;source .zshrc
+: 1446669905:0;st
+: 1446669917:0;st .zshrc
+: 1446669969:0;ls
+: 1446669972:0;cd ubuntu
+: 1446669972:0;ls
+: 1446669976:0;st Vagrantfile
+: 1446670071:0;ls
+: 1446670081:0;_open .
+: 1446670196:0;cd C:
+: 1446670197:0;ls
+: 1446670199:0;cd Users
+: 1446670200:0;ls
+: 1446670210:0;cd s1210029
+: 1446670210:0;ls
+: 1446670213:0;cd Desktop
+: 1446670214:0;ls
+: 1446670227:0;cd base.box
+: 1446670227:0;ls
+: 1446670249:0;cp base.box ~/ubuntu/ubuntu.box
+: 1446670255:0;cd
+: 1446670256:0;cd ubuntu
+: 1446670257:0;ls
+: 1446670260:0;vagrant up
+: 1446670327:0;la
+: 1446670328:0;ls
+: 1446670332:0;less Vagrantfile
+: 1446670337:0;ls
+: 1446670343:0;mv ubuntu.box base.box
+: 1446670348:0;vagrant up
+: 1446670371:0;vagrant ssh
+: 1446670500:0;ls
+: 1446670501:0;cd ..
+: 1446670502:0;ls
+: 1446670520:0;mkdir centos; cd centos
+: 1446670545:0;vagrant box add CentOS65 https://github.com/2creatives/vagrant-centos/releases/download/v6.5.3/centos65-x86_64-20140116.box
+: 1446670602:0;ls
+: 1446670604:0;cd ..
+: 1446670604:0;ls
+: 1446670606:0;ls -a
+: 1446670610:0;cd centos
+: 1446670611:0;ls
+: 1446670622:0;ls -a
+: 1446670644:0;vagrant init CentOS65
+: 1446670649:0;st Vagrantfile
+: 1446670675:0;vagrant up
+: 1446670685:0;st Vagrantfile
+: 1446670693:0;vagrant up
+: 1446670815:0;vagrant ssh
+: 1446670885:0;ks
+: 1446670886:0;ls
+: 1446670889:0;cd centos
+: 1446670889:0;ls
+: 1446670918:0;less Vagrantfile
+: 1446671164:0;st Vagrantfile
+: 1446671240:0;vagrant reload
+: 1446671248:0;vagrant ssh
+: 1446671252:0;ls
+: 1446671257:0;mkdir hello
+: 1446671266:0;vagrant reload
+: 1446671276:0;ls
+: 1446671277:0;pwd
+: 1446671279:0;cd hello
+: 1446671279:0;ls
+: 1446671320:0;vagrant ssh
+: 1446671348:0;ls
+: 1446671355:0;st hello.json
+: 1446673790:0;ls
+: 1446673795:0;vim Vagrantfile 
+: 1446673887:0;ls
+: 1446673893:0;cd ..
+: 1446673893:0;ls
+: 1446673898:0;cd ubuntu
+: 1446673898:0;ls
+: 1446673909:0;vim Vagrantfile
+: 1446673936:0;cd ../centos/
+: 1446673936:0;ls
+: 1446673941:0;vim Vagrantfile
+: 1446673962:0;vagrant reload
+: 1446675196:0;ls
+: 1446675198:0;pwd
+: 1446675202:0;ls
+: 1446675210:0;cd hello
+: 1446675210:0;ls
+: 1446675214:0;st hello.json
+: 1446675469:0;ls
+: 1446675471:0;cd ..
+: 1446675471:0;ls
+: 1446675475:0;less Vagrantfile
+: 1446675506:0;st hello.json
+: 1446676113:0;ls
+: 1446676116:0;cd ../ubuntu
+: 1446676117:0;ls
+: 1446676121:0;less Vagrantfile
+: 1446676136:0;vagrant up
+: 1446676224:0;ls
+: 1446676694:0;cd ..
+: 1446676694:0;ls
+: 1446676697:0;cd centos
+: 1446676697:0;ls
+: 1446676780:0;cd ../ubuntu
+: 1446676780:0;ls
+: 1446676784:0;vagrant halt
+: 1446676790:0;cd ../
+: 1446676792:0;cd centos
+: 1446676793:0;ls
+: 1446676872:0;cd ..
+: 1446676873:0;ls
+: 1446676885:0;mkdir centos-rails
+: 1446676888:0;cd ..
+: 1446676889:0;cd 
+: 1446676890:0;ls
+: 1446676896:0;cd centos
+: 1446676896:0;ls
+: 1446676899:0;less Vagrantfile
+: 1446676903:0;cd ..
+: 1446676907:0;cd centos-rails
+: 1446676914:0;vagrant init CentOS65
+: 1446676917:0;ls
+: 1446676919:0;cd ..
+: 1446676919:0;ls
+: 1446676921:0;cd centos
+: 1446676922:0;ls
+: 1446676932:0;cp Vagrantfile ../centos-rails/Vagrantfile
+: 1446676936:0;cd ../centos-rails
+: 1446676937:0;ls
+: 1446676939:0;less Vagrantfile
+: 1446676950:0;vagrant up
+: 1446676963:0;st Vagrantfile
+: 1446677064:0;ls
+: 1446677066:0;pwd
+: 1446677069:0;vagrant up
+: 1446677081:0;mkdir shared
+: 1446677084:0;vagrant up
+: 1446677097:0;st Vagrantfile
+: 1446677110:0;vagrant up
+: 1446677187:0;ls
+: 1446677188:0;pwd
+: 1446677194:0;ls
+: 1446677211:0;vagrant ssh
+: 1446677252:0;vagrant up
+: 1446677300:0;vagrant ssh
+: 1446677334:0;vagrant reload
+: 1446677385:0;ls
+: 1446677389:0;vagrant ssh
+: 1446677438:0;cd ../../centos-rails
+: 1446677438:0;ls
+: 1446677443:0;st Vagrantfile
+: 1446678965:0;vagrant ssh
+: 1446679334:0;vagrant reload
+: 1446679385:0;vagrant ssh
+: 1446681678:0;l
+: 1446681692:0;ls
+: 1446681693:0;pwd
+: 1446681698:0;less Vagrantfile
+: 1446681704:0;pwd
+: 1446681708:0;less Vagrantfile
+: 1446681715:0;ls
+: 1446681717:0;cd shared
+: 1446681718:0;ls
+: 1446681901:0;l;s
+: 1446681901:0;ls
+: 1446681904:0;cd rails_test
+: 1446681905:0;ls
+: 1446681908:0;st Gemfile
+: 1446685250:0;ls
+: 1446685254:0;la
+: 1446685256:0;ll
+: 1446685265:0;less Vagrantfile
+: 1446685273:0;ls -a
+: 1446685281:0;cd ../
+: 1446685282:0;ls
+: 1446685284:0;cd centos
+: 1446685284:0;ls
+: 1446685287:0;vagrant halt
+: 1446685308:0;cd ..
+: 1446685308:0;ls
+: 1446685310:0;cd centos
+: 1446685313:0;cd ..
+: 1446685316:0;cd centos-rails
+: 1446685316:0;ls
+: 1446685334:0;mv Vagrantfile _Vagrantfile
+: 1446685334:0;ls
+: 1446685345:0;vagrant init CentOS65
+: 1446685348:0;ls
+: 1446685364:0;mv _Vagrantfile Vagrantfile
+: 1446685365:0;ls
+: 1446685371:0;vagrant halt
+: 1446685381:0;vagrant up
+: 1446685431:0;ls
+: 1446685434:0;vagrant ssh
+: 1446685541:0;ls
+: 1446685578:0;vagrant box list
+: 1446685606:0;ls
+: 1446685607:0;pwd
+: 1446685616:0;cp Vagrantfile ../Vagrantfile
+: 1446685617:0;ls
+: 1446685618:0;cd ..
+: 1446685619:0;ls
+: 1446685622:0;cd centos-rails
+: 1446685623:0;ls
+: 1446685625:0;cd shared
+: 1446685625:0;ls
+: 1446685627:0;cd ..
+: 1446685628:0;ls
+: 1446685634:0;vagrant destroy
+: 1446685639:0;ls
+: 1446685664:0;vagrant up
+: 1446685673:0;vagrant halt
+: 1446685683:0;vagrant destroy
+: 1446685692:0;vagrant status
+: 1446685701:0;vagrant up
+: 1446685745:0;vagrant ssh
+: 1446685763:0;vagrant halt
+: 1446685778:0;vagrant destroy
+: 1446685854:0;vagrant destroy --force
+: 1446685865:0;vagrant up
+: 1446685938:0;vagrant ssh
+: 1446685945:0;ls
+: 1446685949:0;less Vagrantfile
+: 1446685956:0;vagrant ssh
+: 1446686696:0;vagrant reload
+: 1446686749:0;ls
+: 1446686756:0;vagrant ssh
+: 1446688907:0;ls
+: 1446688908:0;cd ..
+: 1446688910:0;ls
+: 1446688916:0;cd ..
+: 1446688916:0;ls
+: 1446688919:0;st Vagrant
+: 1446688927:0;ls
+: 1446688931:0;st Vagrantfile
+: 1446689513:0;ls
+: 1446689515:0;cd shared
+: 1446689515:0;ls
+: 1446689518:0;cd rails_test
+: 1446689518:0;ls
+: 1446689521:0;st Gemfile
+: 1446689686:0;cd ../rails_mysql_test
+: 1446689687:0;ls
+: 1446689690:0;st Gemfile
+: 1446690380:0;cd config
+: 1446690381:0;s
+: 1446690382:0;ls
+: 1446690385:0;st database.yml
+: 1446691829:0;ls
+: 1446691830:0;cd
+: 1446691831:0;ls
+: 1446691835:0;cd centos-rails
+: 1446691835:0;ls
+: 1446691840:0;less Vagrantfile
+: 1446693147:0;vagrant halt
+: 1446693171:0;vagrant up
+: 1446693222:0;vagrant ssh
+: 1446695065:0;vagrant halt
+: 1446695078:0;vagrant package
+: 1446695532:0;ls
+: 1446695533:0;cd .
+: 1446695534:0;cd..
+: 1446695535:0;ls
+: 1446695536:0;cd ..
+: 1446695536:0;ls
+: 1446695544:0;cd ubuntu
+: 1446695544:0;ls
+: 1446695547:0;cd ..
+: 1446695548:0;ls
+: 1446695556:0;cd ubuntu
+: 1446695556:0;ls
+: 1446695559:0;less Vagrantfile
+: 1446695564:0;cd ..
+: 1446695564:0;ls
+: 1446695573:0;rm -Rf ubuntu
+: 1446695574:0;ls
+: 1446695582:0;cd ..
+: 1446695582:0;ls
+: 1446695584:0;cd s1210029
+: 1446695585:0;ls
+: 1446695588:0;rm Vagrantfile
+: 1446695588:0;ls
+: 1446695590:0;ls -a
+: 1446695592:0;la
+: 1446695613:0;less .vimrc
+: 1446695873:0;ls
+: 1446695885:0;ls | grep box
+: 1446695897:0;vagrant package
+: 1446695906:0;ls
+: 1446695921:0;vagrant halt
+: 1446695980:0;vagrant ssh
+: 1446695990:0;vagrant up
+: 1446695998:0;ls -a
+: 1446696003:0;cd .vagrant
+: 1446696004:0;ls
+: 1446696006:0;cd machines
+: 1446696006:0;ls
+: 1446696008:0;cd default
+: 1446696010:0;la
+: 1446696012:0;cd virtualbox
+: 1446696013:0;ls
+: 1446696016:0;cd 
+: 1446696023:0;cd centos-rails/ls
+: 1446696024:0;ls
+: 1446696028:0;cd centos
+: 1446696032:0;cd ..
+: 1446696035:0;centos-rails
+: 1446696036:0;ls
+: 1446696053:0;vagrant package
+: 1446696141:0;ps
+: 1446696179:0;jobs
+: 1446696180:0;ps
+: 1446696185:0;exit
+: 1446696200:0;pwd
+: 1446696201:0;ls
+: 1446696203:0;cd centos-rails
+: 1446696204:0;ls
+: 1446696227:0;vagrant package
+: 1446696243:0;ps
+: 1446696396:0;ps --help
+: 1446696398:0;po a
+: 1446696400:0;ps -a
+: 1446696411:0;kill 5256
+: 1446696422:0;ks
+: 1446696423:0;ls
+: 1446696431:0;cd centos-rails
+: 1446696432:0;ls
+: 1446696440:0;vagrant package
+: 1446696512:0;ps
+: 1446708496:0;  ls
+: 1446708511:0;pwd
+: 1446708515:0;la
+: 1446708519:0;ll
+: 1446708548:0;pwd
+: 1446708550:0;ls
+: 1446708558:0;pwd
+: 1446708559:0;cd ..
+: 1446708559:0;ls
+: 1446708564:0;cd centos-rails
+: 1446708565:0;ls
+: 1446708570:0;vagrant package
+: 1446708587:0;ps
+: 1446708591:0;exit
+: 1446708852:0;cd centos-rails
+: 1446708854:0;ls
+: 1446708859:0;vagrant package
+: 1446709594:0;ls
+: 1446709600:0;pwd
+: 1446709653:0;ls
+: 1446709656:0;vagrant halt
+: 1446709683:0;exit
+: 1446710752:0;ls
+: 1446710754:0;pwd
+: 1446710759:0;cd C:
+: 1446710760:0;ls
+: 1446710765:0;cd Users
+: 1446710765:0;ls
+: 1446710767:0;cd s1210029
+: 1446710768:0;ls
+: 1446710776:0;ls -a | grep .ssh
+: 1446710788:0;mkdir git
+: 1446710790:0;cd git
+: 1446710791:0;ls
+: 1446710843:0;cd ../.ssh
+: 1446710845:0;pwd
+: 1446710845:0;ls
+: 1446710849:0;less id_rsa.pub
+: 1446710923:0;cd ..
+: 1446710924:0;ls
+: 1446710925:0;cd git
+: 1446710938:0;git clone git@bitbucket.org:teilab/webtest-sossii.git
+: 1446710941:0;Music
+: 1446710944:0;ls
+: 1446710946:0;pwd
+: 1446710956:0;git clone git@bitbucket.org:teilab/webtest-sossii.git
+: 1446710967:0;ls
+: 1446710969:0;cd webtest-sossii
+: 1446710969:0;ls
+: 1446711024:0;cd ..
+: 1446711025:0;ls
+: 1446711026:0;cd ..
+: 1446711026:0;ls
+: 1446711031:0;cd git
+: 1446711031:0;ls
+: 1446711038:0;rm -rf webtest-sossii
+: 1446711039:0;ls
+: 1446715209:0;exit
+: 1447091158:0;pwd
+: 1447091161:0;ls
+: 1447091187:0;cd C:Users
+: 1447091188:0;ls
+: 1447091190:0;cd C:
+: 1447091190:0;ls
+: 1447091204:0;cd Android
+: 1447091205:0;ls
+: 1447091207:0;cd Android\ Studio
+: 1447091208:0;ls
+: 1447091217:0;cd ..
+: 1447091218:0;ls
+: 1447091219:0;cd ..
+: 1447091219:0;ls
+: 1447091225:0;cd Users
+: 1447091226:0;ls
+: 1447091229:0;cd s1210029
+: 1447091229:0;ls
+: 1447091232:0;cd AndroidStudioProjects
+: 1447091232:0;ls
+: 1447091236:0;git status
+: 1447091255:0;git clone git@github.com:kobaken0029/wanmemo.git
+: 1447091269:0;ls
+: 1447091270:0;cd wanmemo
+: 1447091271:0;ls
+: 1447091279:0;git branch
+: 1447091308:0;git checkout -b fix-app-structure origin/fix-app-structure
+: 1447091312:0;ls
+: 1447091313:0;tig
+: 1447091471:0;java -v
+: 1447091477:0;which java
+: 1447091538:0;clear
+: 1447092068:0;git status
+: 1447092069:0;git log
+: 1447092072:0;git status
+: 1447110744:0;exit
+: 1447110748:0;git status
+: 1447110749:0;tig
+: 1447110810:0;exit
+: 1447110820:0;cd C:
+: 1447110822:0;cd Users
+: 1447110823:0;ls
+: 1447110825:0;cd s1210029
+: 1447110826:0;ls
+: 1447110830:0;cd AndroidStudioProjects
+: 1447110831:0;ls
+: 1447110833:0;cd wanmemo
+: 1447110834:0;ls
+: 1447110844:0;git push origin fix-app-structure
+: 1447110850:0;exit
+: 1447141740:0;perl
+: 1447141749:0;which perl
+: 1447141770:0;perl -e "print 'Hello world!';"
+: 1447141791:0;perl print 'Hello world'
+: 1447182978:0;ls
+: 1447182980:0;cd
+: 1447182981:0;ls -a
+: 1447182991:0;cd centos
+: 1447182991:0;ls
+: 1447182994:0;ls -a
+: 1447182998:0;cd ..
+: 1447182998:0;ls
+: 1447183001:0;cd centos-rails
+: 1447183001:0;ls
+: 1447183002:0;ls -a
+: 1447183005:0;cd ..
+: 1447183006:0;ls
+: 1447183009:0;ls -a
+: 1447183010:0;la
+: 1447183013:0;ls -a
+: 1447183021:0;mkdir dotfiles
+: 1447183025:0;ls
+: 1447183029:0;cd dotfiles
+: 1447183030:0;ls
+: 1447183033:0;ls -a
+: 1447183036:0;cd ..
+: 1447183036:0;ls
+: 1447183039:0;rm -R dotfiles
+: 1447183047:0;rm -Rf dotfiles
+: 1447183049:0;ls
+: 1447183053:0;mkdir dotfiles
+: 1447183054:0;ls
+: 1447183056:0;ls -a
+: 1447183069:0;cp .* ./dotfiles/.
