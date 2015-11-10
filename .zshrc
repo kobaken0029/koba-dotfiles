@@ -11,7 +11,6 @@ export MANPATH=/usr/local/share/man:/usr/local/man:/usr/share/man
 alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
-alias git='nocorrect git'
 
 ## 補完機能の強化
 autoload -Uz compinit
@@ -140,8 +139,6 @@ precmd() { vcs_info }
 PROMPT='[${vcs_info_msg_0_}]:%~/%f '
 
 alias t="tig"
-alias la="ls -a"
-alias ll="ls -l"
 alias g="git"
 alias st="C:/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"
 export TMUX_TMPDIR=/var/run/tmux
